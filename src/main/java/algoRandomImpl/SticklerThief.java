@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 import java.util.ArrayList;
 import java.util.List;

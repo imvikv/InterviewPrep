@@ -1,6 +1,6 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
-import java.multiThreadingImpl.A.C;
+import multiThreadingImpl.A.C;
 
 public class B  extends A{
 

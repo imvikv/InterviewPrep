@@ -1,4 +1,4 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
 
 public class TestCollections implements a1{

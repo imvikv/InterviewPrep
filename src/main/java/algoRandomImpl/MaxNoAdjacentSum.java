@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 //Maximum sum such that no two elements are adjacent
 

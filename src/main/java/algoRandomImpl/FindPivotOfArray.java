@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*Search an element in a sorted and rotated array
 given an array find the rotation point

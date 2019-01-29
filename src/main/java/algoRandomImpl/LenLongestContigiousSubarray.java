@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*Given an array of integers, find length of the longest subarray which contains numbers that can be arranged in a continuous sequence.
 

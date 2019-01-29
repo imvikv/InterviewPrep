@@ -1,4 +1,4 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
 public class JavaThreadStates implements Runnable {
 

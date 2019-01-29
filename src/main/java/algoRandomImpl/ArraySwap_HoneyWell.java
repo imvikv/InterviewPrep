@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 import java.util.*;
 public class ArraySwap_HoneyWell {
 

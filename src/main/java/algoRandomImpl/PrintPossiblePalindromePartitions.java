@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*
  * Given a string, find all possible palindromic partitions of given string.

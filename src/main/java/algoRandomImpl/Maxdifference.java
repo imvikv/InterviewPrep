@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*Maximum difference between two elements such that larger element appears after the smaller number
 Given an array arr[] of integers, find out the difference between any two elements such that larger element appears after the smaller number in arr[].

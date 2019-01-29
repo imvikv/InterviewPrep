@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*
  * Count Inversions in an array | Set 1 (Using Merge Sort)

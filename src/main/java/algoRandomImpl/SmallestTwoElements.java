@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 //Find the smallest and second smallest element in an array
 public class SmallestTwoElements {

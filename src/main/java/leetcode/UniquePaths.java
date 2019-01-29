@@ -1,4 +1,4 @@
-package algo.java.impl.leetcode;
+package leetcode;
 
 public class UniquePaths {
 	 public int uniquePaths(int m, int n) {

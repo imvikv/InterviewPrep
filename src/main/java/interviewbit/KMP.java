@@ -1,4 +1,4 @@
-package crack.coding.interview.strings;
+package interviewbit;
 //https://www.interviewbit.com/problems/implement-strstr/
 public class KMP {
 

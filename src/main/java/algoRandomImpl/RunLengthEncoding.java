@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 import java.util.Scanner;
 import java.util.TreeMap;

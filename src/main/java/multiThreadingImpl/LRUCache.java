@@ -1,4 +1,4 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
 import java.util.HashMap;
 import java.util.Map;

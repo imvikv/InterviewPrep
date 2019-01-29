@@ -1,4 +1,4 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
 public class MultiThreading {
 	int a=1,b=2,c=3,d=4;

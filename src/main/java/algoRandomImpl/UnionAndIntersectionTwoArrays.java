@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*Union and Intersection of two sorted arrays
 Given two sorted arrays, find their union and intersection.

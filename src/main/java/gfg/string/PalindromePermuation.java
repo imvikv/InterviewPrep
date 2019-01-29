@@ -1,4 +1,4 @@
-package crack.coding.interview.strings;
+package gfg.string;
 
 import java.util.HashMap;
 

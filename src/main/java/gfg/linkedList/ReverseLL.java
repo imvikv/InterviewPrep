@@ -1,4 +1,4 @@
-package crack.coding.interview.linkedList;
+package gfg.linkedList;
 
 public class ReverseLL {
 	static Node head;

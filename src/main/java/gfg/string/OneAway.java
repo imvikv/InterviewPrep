@@ -1,4 +1,4 @@
-package crack.coding.interview.strings;
+package gfg.string;
 
 /*One Away: There are three types of edits that can be performed on strings: insert a character,
 remove a character, or replace a character. Given two strings, write a function to check if they are

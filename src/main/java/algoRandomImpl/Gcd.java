@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 
 /*Given 2 non negative integers m and n, find gcd(m, n)

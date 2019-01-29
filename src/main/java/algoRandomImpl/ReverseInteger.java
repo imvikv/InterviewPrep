@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 /*Reverse digits of an integer.
 
 Example1:

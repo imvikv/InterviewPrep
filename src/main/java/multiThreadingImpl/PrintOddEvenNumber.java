@@ -1,4 +1,4 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
 /**
  * This Programe will print even and odd numbers using multiThreading using wait

@@ -1,4 +1,4 @@
-package crack.coding.interview.strings;
+package interviewbit;
 
 import java.util.ArrayList;
 import java.util.List;

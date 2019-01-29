@@ -1,4 +1,4 @@
-package java.multiThreadingImpl;
+package multiThreadingImpl;
 
 /*Singleton pattern ensures that exactly one instance of class will remain in Java program at any time
 

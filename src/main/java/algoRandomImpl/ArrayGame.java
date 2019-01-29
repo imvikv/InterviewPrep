@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

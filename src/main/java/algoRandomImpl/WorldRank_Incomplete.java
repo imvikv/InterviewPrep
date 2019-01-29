@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 /*You have been given a String SS consisting of lowercase alphabets of the English Language. Now, we call a String WW an anagram of another String SS, if we can obtain String SS be rearranging the characters of String WW.
 

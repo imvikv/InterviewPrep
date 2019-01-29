@@ -1,4 +1,4 @@
-package algo.java.randomImpl;
+package algoRandomImpl;
 
 
 /*122. Best Time to Buy and Sell Stock II
